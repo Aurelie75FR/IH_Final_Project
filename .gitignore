@@ -7,3 +7,4 @@ notebooks/.DS_Store
 .DS_Store
 *.in
 amazon_uk_processed.csv
+__pycache__
